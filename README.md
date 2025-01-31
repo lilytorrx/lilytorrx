@@ -1,8 +1,5 @@
 # Olá, eu sou Lídia Torres!
 
-
-![Lídia Torres](https://avatars.githubusercontent.com/u/109477475?v=4)
-
 Bem-vindo(a)(e) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, experimentos e contribuições para a comunidade de desenvolvimento. Sou apaixonada por tecnologia e adoro explorar novas ferramentas e linguagens.
 
 ## 🚀 Sobre mim
