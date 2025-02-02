@@ -41,9 +41,9 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 
 Se você quiser colaborar em algum projeto, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato:
 
-- [**E-mail**](gmail.com/repositoriolidia@gmail.com)
+- [**E-mail**](https://www.gmail.com/repositoriolidia@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/l%C3%ADdia-torres-7274b226a/)
-- [**Twitter**](x.com/lilytorrx)
+- [**Twitter**](https://www.x.com/lilytorrx)
 
 ---
 
