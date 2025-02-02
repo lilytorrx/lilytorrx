@@ -24,7 +24,9 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 
 ## 📂 Projetos Destacados
 
-- Atualmente não possuo projetos de grande porte, apenas estudos. Conforme for estudando mais e mais, vou criando e adicionando os projetos.
+- [LT Events](https://github.com/lilytorrx/projeto-evento)
+- [Mat-in](https://github.com/lilytorrx/SiteAtt)
+- [NexusSocial](https://github.com/lilytorrx/projeto-rede-social)
 
 
 ----
