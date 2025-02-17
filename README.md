@@ -25,8 +25,9 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 ## 📂 Projetos Destacados
 
 - [LT Events](https://github.com/lilytorrx/projeto-evento) -> Gerenciador de Eventos em Laravel integrado ao Banco de Dados.
-- [Mat-in](https://github.com/lilytorrx/SiteAtt) -> Marketplace de produtos agrícolas, criado para meu TCC.
-- [NexusSocial](https://github.com/lilytorrx/projeto-rede-social) -> Projeto de rede social, inspirada no Facebook.
+- [Mat-in](https://github.com/lilytorrx/SiteAtt) -> Marketplace de produtos agrícolas em PHP, criado para meu TCC.
+- [NexusSocial](https://github.com/lilytorrx/projeto-rede-social) -> Projeto de rede social em HTML, inspirada no Facebook.
+- [NexusSocial](https://github.com/lilytorrx/bitcont) -> Projeto de cotação de BitCoin em React Native.
 
 
 ----
