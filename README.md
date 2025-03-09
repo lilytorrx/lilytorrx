@@ -42,7 +42,6 @@ Se você quiser colaborar em algum projeto, discutir ideias ou apenas bater um p
 
 - [**E-mail**](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZZzXlczDqjzqwZlXTKFjbrGTZHwNFccdCKXTgKQtJhLQstpRPChLXPGtmmdZgNjXLxzfL)
 - [**LinkedIn**](https://www.linkedin.com/in/l%C3%ADdia-torres-7274b226a/)
-- [**Twitter**](https://www.x.com/lilytorrx)
 
 ---
 
@@ -84,7 +83,6 @@ If you'd like to collaborate on a project, discuss ideas, or just have a chat, f
 
 - [**Email**](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZZzXlczDqjzqwZlXTKFjbrGTZHwNFccdCKXTgKQtJhLQstpRPChLXPGtmmdZgNjXLxzfL)
 - [**LinkedIn**](https://www.linkedin.com/in/l%C3%ADdia-torres-7274b226a/)
-- [**Twitter**](https://www.x.com/lilytorrx)
 
 ---
 
