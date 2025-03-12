@@ -1,6 +1,6 @@
 # Olá, eu sou Lídia Torres!
 
-Bem-vindo(a)(e) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, experimentos e contribuições para a comunidade de desenvolvimento. Sou apaixonada por tecnologia e adoro explorar novas ferramentas e linguagens.
+Bem-vinde ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, experimentos e contribuições para a comunidade de desenvolvimento. Sou apaixonada por tecnologia e adoro explorar novas ferramentas e linguagens.
 
 ## 🚀 Sobre mim
 
@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 
 ## 📂 Projetos Destacados
 
-- [LT Events](https://github.com/lilytorrx/projeto-evento) -> Gerenciador de Eventos em Laravel integrado ao Banco de Dados.
+- [LT Events](https://github.com/lilytorrx/ltevents) -> Gerenciador de Eventos em Laravel integrado ao Banco de Dados.
 - [Mat-in](https://github.com/lilytorrx/SiteAtt) -> Marketplace de produtos agrícolas em PHP, criado para meu TCC.
 - [NexusSocial](https://github.com/lilytorrx/projeto-rede-social) -> Projeto de rede social em HTML, inspirada no Facebook.
 - [BitCont](https://github.com/lilytorrx/bitcont) -> Projeto de cotação de BitCoin em React Native.
@@ -67,7 +67,7 @@ Here are some of the technologies and tools I use:
 
 ## 📂 Featured Projects
 
-- [LT Events](https://github.com/lilytorrx/projeto-evento) -> Event Manager in Laravel integrated with a Database.
+- [LT Events](https://github.com/lilytorrx/ltevents) -> Event Manager in Laravel integrated with a Database.
 - [Mat-in](https://github.com/lilytorrx/SiteAtt) -> Agricultural Products Marketplace in PHP, created for my graduation thesis.
 - [NexusSocial](https://github.com/lilytorrx/projeto-rede-social) -> Social Network project in HTML inspired by Facebook.
 - [BitCont](https://github.com/lilytorrx/bitcont) -> BitCoin cotation project in React Native.
