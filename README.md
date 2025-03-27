@@ -2,6 +2,8 @@
 
 Bem-vinde ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, experimentos e contribuições para a comunidade de desenvolvimento. Sou apaixonada por tecnologia e adoro explorar novas ferramentas e linguagens.
 
+-[Acesse meu portfolio aqui!]:(https://lilytorrx.github.io/portfolio-lidia)
+
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedora Full Stack em constante aprendizado.
