@@ -7,7 +7,7 @@ Bem-vinde ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projet
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedora Full Stack em constante aprendizado.
-- 🌱 Atualmente estou aprendendo **React Native** e **Java**.
+- 🌱 Atualmente estou aprendendo **React** e **Java**.
 - 🎯 Objetivo: Aprender a criar sistemas escaláveis e inovadores no mundo da tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, experiments,
 ## 🚀 About Me
 
 - 💻 Full Stack Developer constantly learning.
-- 🌱 Currently learning **React Native** and **Java**.
+- 🌱 Currently learning **React** and **Java**.
 - 🎯 Goal: To learn how to create scalable and innovative systems in the tech world.
 
 ## 🛠️ Technologies and Tools
