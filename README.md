@@ -2,7 +2,7 @@
 
 Bem-vinde ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos, experimentos e contribuições para a comunidade de desenvolvimento. Sou apaixonada por tecnologia e adoro explorar novas ferramentas e linguagens.
 
-[Acesse meu portfolio aqui!]([https://portfolio-lidia-nine.vercel.app/])
+<a href='https://portfolio-lidia-nine.vercel.app/'>Acesse meu portfolio aqui!</a>
 
 ## 🚀 Sobre mim
 
