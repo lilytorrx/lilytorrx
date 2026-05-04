@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lilytorrx&show_icons=true&theme=radical)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lilytorrx&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lilytorrx&layout=compact&theme=radical)
 
 ## 📫 Vamos conversar!
 
@@ -95,7 +95,7 @@ Here are some of the technologies and tools I use:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilytorrx&show_icons=true&theme=radical)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilytorrx&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilytorrx&layout=compact&theme=radical)
 
 ## 📫 Let's Chat!
 
