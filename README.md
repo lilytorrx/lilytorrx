@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 - [Mat-in](https://github.com/lilytorrx/SiteAtt) -> Marketplace de produtos agrícolas em PHP, criado para meu TCC.
 - [NexusSocial](https://github.com/lilytorrx/nexusSocial) -> Projeto de rede social em HTML, inspirada no Facebook.
 - [BitCont](https://github.com/lilytorrx/bitcont) -> Projeto de cotação de BitCoin em React Native.
-- [AgendIn](https://github.com/lilytorrx/bitcont) -> Agendador de horários criado em Java e React.
+- [AgendIn](https://github.com/lilytorrx/agendador-horarios) -> Agendador de horários criado em Java e React.
 
 ----
 
@@ -87,6 +87,7 @@ Here are some of the technologies and tools I use:
 - [Mat-in](https://github.com/lilytorrx/SiteAtt) -> Agricultural Products Marketplace in PHP, created for my graduation thesis.
 - [NexusSocial](https://github.com/lilytorrx/nexusSocial) -> Social Network project in HTML inspired by Facebook.
 - [BitCont](https://github.com/lilytorrx/bitcont) -> BitCoin cotation project in React Native.
+- [AgendIn](https://github.com/lilytorrx/agendador-horarios) -> Time scheduler built in Java and React.
   
 ----
 
