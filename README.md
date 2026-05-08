@@ -38,10 +38,6 @@ Aqui estão algumas das tecnologias e ferramentas que eu uso:
 
 ----
 
-## 📊 Estatísticas do GitHub
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lilytorrx&layout=compact&theme=radical)
-
 ## 📫 Vamos conversar!
 
 Se você quiser colaborar em algum projeto, discutir ideias ou apenas bater um papo, sinta-se à vontade para entrar em contato:
@@ -92,10 +88,6 @@ Here are some of the technologies and tools I use:
 - [BitCont](https://github.com/lilytorrx/bitcont) -> BitCoin cotation project in React Native.
   
 ----
-
-## 📊 GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilytorrx&layout=compact&theme=radical)
 
 ## 📫 Let's Chat!
 
